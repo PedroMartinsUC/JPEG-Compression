@@ -42,6 +42,6 @@ You have one way to run this project:
    - If you want to see the plots and prints of each step change the respectively variables to true on main.
 
 ## Authors:
-- [João Silva](https://github.com/joaosilva21)
-- [António Correia](https://github.com/antcorreia)
 - [Pedro Martins](https://github.com/PedroMartinsUC)
+- [António Correia](https://github.com/antcorreia)
+- [João Silva](https://github.com/joaosilva21)
